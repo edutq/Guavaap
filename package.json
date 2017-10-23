@@ -1,0 +1,23 @@
+{
+  "name": "guavaap",
+  "version": "1.0.0",
+  "description": "Proyecto Startup",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edutq/Guavaap.git"
+  },
+  "author": "Guavapp Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edutq/Guavaap/issues"
+  },
+  "homepage": "https://github.com/edutq/Guavaap#readme",
+  "dependencies": {
+    "aerospike": "^3.0.2",
+    "express": "^4.16.2"
+  }
+}
